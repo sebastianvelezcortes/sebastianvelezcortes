@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Al Siam</a></b>
+                <b><a target="_blank" href="">Sebastián Vélez Cortés</a></b>
         </samp>
 </h3>
 
